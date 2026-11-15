@@ -1,4 +1,4 @@
-<p align="center"> <img width="513" height="200" src="https://github.com/user-attachments/assets/54bc5030-0d7c-49b8-b131-09ce13feabf9" />
+<p align="center"> <img width="500" height="250" src="https://github.com/user-attachments/assets/54bc5030-0d7c-49b8-b131-09ce13feabf9" />
 
 <!--
 **dudecest/dudecest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
